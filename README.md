@@ -2,50 +2,28 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Sou Lysia e estou fazendo um desafio sobre IAs Generativas com o objetivo de parecer natural mesmo fazendo o uso de IAs.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+### O Projeto
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Magia da Máquina: Como a IA Cria a Ilusão do Natural
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto fiz a criação de um vídeo feito com um avatar em IA de mim mesma. No vídeo procuro falar sobre um tema interessante mas tudo foi feito via script e em nenhum momento me utilizo de verdade para o video.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o Gemini para o script e para fazer este readme
+Para o vídeo e o avatar utilizei o heygen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Comecei abrindo o Gemini para saber sobre o que falar, escolhi um tema e fui conversando com a IA até ter um script pronto para colocar no vídeo. Após isso criei meu avatar e coloquei o script nele.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue o link com meu vídeo:
+- [Vídeo (Avatar Virtual)](https://app.heygen.com/share/9ca4344ac69c4f85aa7fa70baff68db1)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
